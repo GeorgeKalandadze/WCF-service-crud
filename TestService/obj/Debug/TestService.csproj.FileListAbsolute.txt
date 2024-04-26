@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\TestService.dll.config
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\TestService.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\TestService.pdb
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\EntityFramework.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\TestDAL.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\TestDAL.pdb
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\TestDAL.dll.config
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\EntityFramework.xml
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\bin\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\obj\Debug\TestService.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\obj\Debug\TestService.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\obj\Debug\TestService.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\obj\Debug\TestService.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestService\obj\Debug\TestService.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\bin\Debug\TestClient.exe
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\bin\Debug\TestClient.pdb
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.Form1.resources
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.exe
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestClient\obj\Debug\TestClient.pdb

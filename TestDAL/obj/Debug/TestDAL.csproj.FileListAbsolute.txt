@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\bin\Debug\TestDAL.dll.config
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\bin\Debug\TestDAL.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\bin\Debug\TestDAL.pdb
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\obj\Debug\TestDAL.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\obj\Debug\TestDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\obj\Debug\TestDAL.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\obj\Debug\TestDAL.dll
+C:\Users\user\OneDrive\Desktop\TestServiceSolution\TestDAL\obj\Debug\TestDAL.pdb
